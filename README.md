@@ -1,6 +1,6 @@
-# Writeup CTF — Bagaskara Amukti Palapa
+# Writeup PicoCTF - Bagaskara Amukti Palapa
 
-Kumpulan writeup Capture The Flag (CTF) yang saya kerjakan. Tiap tantangan ada di folder tersendiri dengan format `Nama-Kategori-Difficulty`, berisi `writeup.md` dan source soal.
+Kumpulan writeup **picoCTF** yang saya kerjakan. Tiap tantangan ada di folder tersendiri dengan format `Nama-Kategori-Difficulty`, berisi `writeup.md` dan source soal.
 
 ## Daftar Writeup
 
