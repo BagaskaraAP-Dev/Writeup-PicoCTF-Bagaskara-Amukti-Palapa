@@ -1,0 +1,5 @@
+If the input to the machine is 12044, what is the output?
+Answer> -112719796
+-112719796
+That's not correct.
+You have to wait 360.0 seconds before trying again.

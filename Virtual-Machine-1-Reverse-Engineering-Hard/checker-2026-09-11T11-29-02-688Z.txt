@@ -1,0 +1,5 @@
+If the input to the machine is 12044, what is the output?
+Answer> 112719796
+112719796
+That's correct!
+picoCTF{m0r3_g34r5_3g4d_4261e7cd}
