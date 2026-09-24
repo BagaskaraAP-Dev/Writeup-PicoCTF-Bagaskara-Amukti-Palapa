@@ -14,6 +14,7 @@ Kumpulan writeup **picoCTF** yang saya kerjakan. Tiap tantangan ada di folder te
 | Keygenme | picoCTF 2022 | Reverse Engineering | Hard | [writeup](./Keygenme-Reverse-Engineering-Hard/writeup.md) |
 | Fermat-strings | picoCTF 2022 | Binary Exploitation | Hard | [writeup](./Fermat-strings-Binary-Exploitation-Hard/writeup.md) |
 | Virtual Machine 1 | picoCTF 2023 | Reverse Engineering | Hard | [writeup](./Virtual-Machine-1-Reverse-Engineering-Hard/writeup.md) |
+| SideChannel | picoCTF 2022 | Forensics | Hard | [writeup](./SideChannel-Forensics-Hard/writeup.md) |
 
 ---
 
